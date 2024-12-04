@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>login.qss</file>
+        <file>background.jpg</file>
+        <file>kongtiao.png</file>
+        <file>yusan.png</file>
+        <file>yinyue(1).png</file>
+        <file>1.png</file>
+        <file>ying1/tubiao.png</file>
+        <file>ying1.qss</file>
+        <file>ying1/yinliang.png</file>
+    </qresource>
+</RCC>

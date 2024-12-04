@@ -1,0 +1,6 @@
+QLabel
+{
+        border-image: url(:/1.png);
+        border-radius:50px;
+
+}
